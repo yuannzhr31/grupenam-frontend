@@ -183,11 +183,11 @@
 }
 
 .navbar-light .navbar-brand h1 {
-  color: var(--bs-white);
+  color: var(--bs-black);
 }
 
 .sticky-top.navbar-light .navbar-brand h1 {
-  color: var(--bs-primary);
+  color: var(--bs-#000000);
 }
 
 .navbar-light .navbar-brand img {
